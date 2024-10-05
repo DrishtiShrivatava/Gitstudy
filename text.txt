@@ -1,0 +1,8 @@
+How to enter Username and Password in Git Bash?
+Open Git Bash.
+Use the command $ git config –global user.name “YourUsername” to set your username.
+Use the command $ git config –global user.email “YourEmail” to set your email.
+Use the command $ git config –global user.password “YourPassword” to set your password.
+
+
+hhdjwwdjsjhdjsdsndjasndjahdkandkasndasSndk
